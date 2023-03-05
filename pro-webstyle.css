@@ -1,0 +1,56 @@
+.main-btn {
+    color: #fff;
+    background-color: #881500;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+}
+fieldset {
+  background-color: #881500;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+.headingcss{
+
+font-size:36px;
+font-family: 'Serif';
+color:white ;
+}
+.headingcss2{
+
+font-size:60px;
+font-family: 'Serif';
+color:darksalmon ;
+}
+.heading2css{
+font-size:35px;
+color: blue;
+color:red;
+}
+th{
+margin-right:100px;
+border: 2px solid;
+color:#DACECB ;
+size: 40px;
+}
+td{
+margin-right:100px;
+border: 3px solid;
+color: #DACECB;
+}
+
